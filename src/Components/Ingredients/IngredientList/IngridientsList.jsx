@@ -1,9 +1,12 @@
-import React from 'react'
-
+import { useState, useEffect } from 'react'
+import Ingredient from '../Ingredient/Ingrident'
 const IngredientList = () => {
-  return (
-    <div>IngridientsList</div>
-  )
+
+	return (
+		<div>
+
+		</div>
+	)
 }
 
 export default IngredientList
